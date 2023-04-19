@@ -9,12 +9,12 @@ b=2;
 print(f"1. a=b={a+b}")
 print("\n")
 
-a=38.9
+a=78.9
 print(f"2.a+b={a+b}")
 print("\n")
 
 b=1e+3 #1e means 10^, 1e+3 ==> 10^3
-print (f"3.a+b={a+b}")
+print (f"3.a+b=", a+b)
 print("\n")
 
 sum=a+b
