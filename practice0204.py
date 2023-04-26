@@ -15,4 +15,4 @@ class Lesson:
         self.fn = fn
         self.ln = ln
 P=Lesson("maggie", "lin")
-print(Lesson.teacher
+print(Lesson.teacher)
